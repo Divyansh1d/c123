@@ -1,0 +1,12 @@
+#heading{
+    color: darkblue;
+    font-size: 100px;
+}
+
+#save_button{
+   padding: 15px;
+   color: yellow;
+   background-color: black;
+   letter-spacing: 2px;
+   width: 100px;
+}
